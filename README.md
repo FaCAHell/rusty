@@ -1,2 +1,2 @@
 # rusty
-This is the repository for the course "Progamming in Rust" at [RheinMain University of Applied Sciences](https://www.hs-rm.de/en/).
+This is the repository for the lacture "Programming in Rust" at the [RheinMain University of Applied Sciences](https://www.hs-rm.de/en/).
